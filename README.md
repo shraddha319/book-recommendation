@@ -1,5 +1,5 @@
 # goodbooks
-### The emoji Wikipedia!
+A book recommendation web application using React.
 
 ## Tools:
 - HTML5/CSS3
